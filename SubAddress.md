@@ -2,6 +2,7 @@ The following are the addresses that I collected from [cmliu](https://github.com
 ```
 VLESS.fxxk.dedyn.io
 sub.cmliussss.workers.dev
+noTLS.fxxk.dedyn.io
 alvless.comorg.us.kg
 3k.fxxk.dedyn.io
 ```
