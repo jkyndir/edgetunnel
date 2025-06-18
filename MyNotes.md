@@ -11,6 +11,11 @@ alvless.comorg.us.kg
 ```
 
 
+# Set PROXYIP or RPROXYIP
+- Set `PROXYIP`: add this in the 订阅器 address: `&proxyip=proxyip.cmliussss.net`
+- Or, set `RPROXYIP` as true, 即可强制获取订阅器分配的ProxyIP(需订阅器支持) [Guide](https://www.youtube.com/watch?v=s91zjpw3-P8&t=1816s)
+
+
 # Add Optimal IPs via API
 Set up the variable: `ADDAPI`. See guide video here: [自有IP库](https://www.youtube.com/watch?v=oRYnrp5rQSc&t=992s) \
 Example: 
@@ -24,10 +29,6 @@ https://ipdb.api.030101.xyz/?type=bestcf&country=true
 https://addressesapi.090227.xyz/CloudFlareYes
 https://addressesapi.090227.xyz/ip.164746.xyz
 ```
-
-# Set PROXYIP or RPROXYIP
-- Set `PROXYIP`: add this in the 订阅器 address: `&proxyip=proxyip.cmliussss.net`
-- Or, set `RPROXYIP` as true, 即可强制获取订阅器分配的ProxyIP(需订阅器支持) [Guide](https://www.youtube.com/watch?v=s91zjpw3-P8&t=1816s) 
 
 
 # Troubleshooting
