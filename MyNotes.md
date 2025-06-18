@@ -11,9 +11,8 @@ alvless.comorg.us.kg
 ```
 
 
-# Set PROXYIP or RPROXYIP
-- Set `PROXYIP`: add this in the 订阅器 address: `&proxyip=proxyip.cmliussss.net`
-- Or, set `RPROXYIP` as true, 即可强制获取订阅器分配的ProxyIP(需订阅器支持) [Guide](https://www.youtube.com/watch?v=s91zjpw3-P8&t=1816s)
+# Set RPROXYIP
+Set `RPROXYIP` as true by adding this `&rproxyip=true` in the Subscription Address, 即可强制获取订阅器分配的ProxyIP(需订阅器支持) [Guide](https://www.youtube.com/watch?v=s91zjpw3-P8&t=1816s)
 
 
 # Add Optimal IPs via API
