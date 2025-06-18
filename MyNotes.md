@@ -23,6 +23,10 @@ https://addressesapi.090227.xyz/CloudFlareYes
 https://addressesapi.090227.xyz/ip.164746.xyz
 ```
 
+# Set PROXYIP as True
+设为 true 即可强制获取订阅器分配的ProxyIP(需订阅器支持) [Guide](https://www.youtube.com/watch?v=s91zjpw3-P8&t=1816s)
+Or, add this in the 订阅器 address: `&proxyip=proxyip.cmliussss.net`
+
 # Troubleshooting
 [常见问题汇总FAQ](https://vercel.blog.cmliussss.com/p/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/)
 Note to generate UUID in the V2rayN, otherwise the UUID may not work.
