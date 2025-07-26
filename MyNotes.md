@@ -24,10 +24,11 @@ Set the value of `ADDAPI` as the following APIs, which are found on this site [c
 https://addressesapi.090227.xyz/ct
 https://addressesapi.090227.xyz/cmcc
 https://addressesapi.090227.xyz/cmcc-ipv6
-https://ipdb.api.030101.xyz/?type=bestproxy&country=true
-https://ipdb.api.030101.xyz/?type=bestcf&country=true
 https://addressesapi.090227.xyz/CloudFlareYes
 https://addressesapi.090227.xyz/ip.164746.xyz
+https://ipdb.api.030101.xyz/?type=bestcf&country=true
+https://ipdb.api.030101.xyz/?type=cfv4;cfv6&country=true
+https://ipdb.api.030101.xyz/?type=bestproxy&country=true&proxyip=true
 ```
 
 
