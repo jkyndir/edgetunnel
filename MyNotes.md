@@ -16,7 +16,8 @@ Set `RPROXYIP` as true by adding this `&rproxyip=true` in the Subscription Addre
 
 
 # Add Optimal IPs via API
-Set up the variable: `ADDAPI`. See guide video here: [自有IP库](https://www.youtube.com/watch?v=oRYnrp5rQSc&t=992s) \
+Set up the variable: `ADDAPI`. Has to add the variable in the cloudflare panel. Also, ADDAPI won't take effect when using SUB.
+See guide video here: [自有IP库](https://www.youtube.com/watch?v=oRYnrp5rQSc&t=992s) \
 Example: 
 Set the value of `ADDAPI` as the following APIs, which are found on this site [cf.090227.xyz](https://cf.090227.xyz/)
 ```
